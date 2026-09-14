@@ -2,14 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://lochy.space/categories/</loc>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://lochy.space/</loc>
   </url><url>
-    <loc>https://example.org/about/</loc>
+    <loc>https://lochy.space/about/</loc>
   </url><url>
-    <loc>https://example.org/projects/</loc>
+    <loc>https://lochy.space/posts/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://lochy.space/projects/</loc>
+  </url><url>
+    <loc>https://lochy.space/tags/</loc>
   </url>
 </urlset>

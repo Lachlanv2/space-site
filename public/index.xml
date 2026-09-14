@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lochy&#39;s Portfolio</title>
-    <link>https://example.org/</link>
+    <link>https://lochy.space/</link>
     <description>Recent content on Lochy&#39;s Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lochy.space/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Me</title>
-      <link>https://example.org/about/</link>
+      <link>https://lochy.space/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/about/</guid>
+      <guid>https://lochy.space/about/</guid>
       <description>&lt;p&gt;Hi, im Lochy, a computer science and aspiring network engineer from Edith Cowan University, Perth. Anything to do with systems&#xA;administration / networking is my passion. These interests are shown in projects such as my progressing homelab, my work towards&#xA;network engineering certs and other random side quests.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;what-im-working-on&#34;&gt;What im working on&lt;/h1&gt;&#xA;&lt;p&gt;More recently ive started working on more coding type projects, but I wouldn&amp;rsquo;t call them proper though since they are stupid&#xA;ideas that have literally zero real work usage but are hilarious.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Projects</title>
-      <link>https://example.org/projects/</link>
+      <link>https://lochy.space/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/projects/</guid>
+      <guid>https://lochy.space/projects/</guid>
       <description>&lt;p&gt;Projects created by me&lt;/p&gt;&#xA;&lt;p&gt;Currently i have not put any on here but that&amp;rsquo;s a you problem&lt;/p&gt;&#xA;&lt;p&gt;get better&lt;/p&gt;</description>
     </item>
   </channel>
