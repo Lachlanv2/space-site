@@ -1,0 +1,53 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = "Lochy's Portfolio"
+theme = "hugo-theme-tokyo-terminal"
+
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  prompt = "lochy V2"
+
+  [params.dashboard]
+    enabled = true
+    ascii_art = """
+ █████          ███████      █████████  █████   █████ █████ █████    █████   █████  ████████
+░░███         ███░░░░░███   ███░░░░░███░░███   ░░███ ░░███ ░░███    ░░███   ░░███  ███░░░░███
+ ░███        ███     ░░███ ███     ░░░  ░███    ░███  ░░███ ███      ░███    ░███ ░░░    ░███
+ ░███       ░███      ░███░███          ░███████████   ░░█████       ░███    ░███    ███████
+ ░███       ░███      ░███░███          ░███░░░░░███    ░░███        ░░███   ███    ███░░░░
+ ░███      █░░███     ███ ░░███     ███ ░███    ░███     ░███         ░░░█████░    ███      █
+ ███████████ ░░░███████░   ░░█████████  █████   █████    █████          ░░███     ░██████████
+░░░░░░░░░░░    ░░░░░░░      ░░░░░░░░░  ░░░░░   ░░░░░    ░░░░░            ░░░      ░░░░░░░░░░
+
+
+"""
+    ascii_color = "#bb9af7"
+    title = "Im Lochy, an aspiring network engineer from Edith Cowan University, Perth"
+    subtitle = "Want to learn more about me? (weird internet stranger)"
+    hint = "Press the highlighted keys to navigate."
+
+  [[params.social]]
+    name = "github"
+    url = "https://github.com"
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
+    [menu.main.params]
+      shortcut = "a"
+      icon = "☞"
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects"
+    [menu.main.params]
+      shortcut = "p"
+      icon = "☞"
