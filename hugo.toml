@@ -3,6 +3,9 @@ locale = 'en-us'
 title = "Lochy's Portfolio"
 theme = "hugo-theme-tokyo-terminal"
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 
 [markup.goldmark.renderer]
   unsafe = true
