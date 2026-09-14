@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://lochy.space'
 locale = 'en-us'
 title = "Lochy's Portfolio"
 theme = "hugo-theme-tokyo-terminal"
