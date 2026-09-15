@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lochy&#39;s Portfolio</title>
-    <link>https://lochy.space/</link>
+    <link>http://localhost:41801/</link>
     <description>Recent content on Lochy&#39;s Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://lochy.space/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:41801/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Experience</title>
-      <link>https://lochy.space/experience/</link>
+      <link>http://localhost:41801/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lochy.space/experience/</guid>
+      <guid>http://localhost:41801/experience/</guid>
       <description>&lt;h2 id=&#34;cybersecurity-intern&#34;&gt;&lt;span style=&#39;color: Cyan;&#39;&gt;Cybersecurity Intern&lt;/span&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;span style=&#39;color: FireBrick;&#39;&gt;Onestep group&lt;/span&gt; | &lt;span style=&#39;color: DimGray;&#39;&gt;2026 - 2026 (15 Weeks)&lt;/span&gt;&lt;/p&gt;&#xA;&lt;p&gt;► Worked between the SOC and GRC team.&lt;br&gt;&#xA;► Helped create networking resources for the GRC team to present to clients.&lt;br&gt;&#xA;► Helped transition palo alto firewalls from Panorama to SCM.&lt;br&gt;&#xA;► Learnt how to triage alerts within Microsoft Sentinel and touched on Splunk at BOTS.&lt;/p&gt;&#xA;&lt;h2 id=&#34;it-administrator&#34;&gt;&lt;span style=&#39;color: Cyan;&#39;&gt;IT Administrator&lt;/span&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;span style=&#39;color: FireBrick;&#39;&gt;BSF Australia&lt;/span&gt; | &lt;span style=&#39;color: DimGray;&#39;&gt;2024 - Present&lt;/span&gt;&lt;/p&gt;&#xA;&lt;p&gt;► Helped manage, implement and decomission all types of technology.&lt;br&gt;&#xA;► Learnt and worked alongside PBX, Computing, Camera, Linux and networking systems.&lt;br&gt;&#xA;► Provided cybersecurity training to employees.&lt;br&gt;&#xA;► Implemented a custom inventory and order system with a postgres backend.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Me</title>
-      <link>https://lochy.space/about/</link>
+      <link>http://localhost:41801/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lochy.space/about/</guid>
+      <guid>http://localhost:41801/about/</guid>
       <description>&lt;p&gt;Hi, im Lochy, a computer science and aspiring network engineer from Perth. Anything to do with systems&#xA;administration / networking and all the creative problem-solving that comes with it is what I love doing.&lt;/p&gt;&#xA;&lt;h1 id=&#34;what-i-am-working-towards&#34;&gt;What I am working towards:&lt;/h1&gt;&#xA;&lt;h2 id=&#34;certs&#34;&gt;Certs&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Palo Alto Network Security (1/5th of the way through)&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Comptia Network+&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; CCNA&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;projects-todo&#34;&gt;Projects TODO&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Personal Website (This one)&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Computing and Security Students Association Website&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Potential Freelance web design work&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Projects</title>
-      <link>https://lochy.space/projects/</link>
+      <link>http://localhost:41801/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lochy.space/projects/</guid>
+      <guid>http://localhost:41801/projects/</guid>
       <description>&lt;p&gt;Projects created by me&lt;/p&gt;&#xA;&lt;p&gt;Currently i have not put any on here but that&amp;rsquo;s a you problem&lt;/p&gt;&#xA;&lt;p&gt;get better&lt;/p&gt;</description>
     </item>
     <item>
       <title>Testing MD</title>
-      <link>https://lochy.space/test/</link>
+      <link>http://localhost:41801/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lochy.space/test/</guid>
+      <guid>http://localhost:41801/test/</guid>
       <description>&lt;p&gt;Heres all the markdown tricks IK of so I can keep track&lt;/p&gt;&#xA;&lt;p&gt;A very &lt;span style=&#39;color: red;&#39;&gt;long&lt;/span&gt; sentence. = Coloring&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;Imagelink&#34; alt=&#34;alt-text&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
