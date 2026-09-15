@@ -27,7 +27,7 @@ theme = "hugo-theme-tokyo-terminal"
 
 
 """
-    ascii_color = "#bb9af7"
+    ascii_color = "#1eb2db"
     title = "Im Lochy, an aspiring network engineer from Edith Cowan University, Perth"
     subtitle = "Want to learn more about me? (weird internet stranger)"
     hint = "Press the highlighted keys to navigate."
