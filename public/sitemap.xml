@@ -4,6 +4,8 @@
   <url>
     <loc>https://lochy.space/categories/</loc>
   </url><url>
+    <loc>https://lochy.space/experience/</loc>
+  </url><url>
     <loc>https://lochy.space/</loc>
   </url><url>
     <loc>https://lochy.space/about/</loc>
@@ -13,5 +15,7 @@
     <loc>https://lochy.space/projects/</loc>
   </url><url>
     <loc>https://lochy.space/tags/</loc>
+  </url><url>
+    <loc>https://lochy.space/test/</loc>
   </url>
 </urlset>

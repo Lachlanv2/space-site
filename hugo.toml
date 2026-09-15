@@ -11,7 +11,7 @@ theme = "hugo-theme-tokyo-terminal"
   unsafe = true
 
 [params]
-  prompt = "lochy V2"
+  prompt = "V2"
 
   [params.dashboard]
     enabled = true
@@ -27,8 +27,8 @@ theme = "hugo-theme-tokyo-terminal"
 """
     ascii_color = "#1eb2db"
     title = "Im Lochy, an aspiring network engineer from Edith Cowan University, Perth"
-    subtitle = "Want to learn more about me? (weird internet stranger)"
-    hint = "Press the highlighted keys to navigate."
+    subtitle = "Want to learn more about what I do?"
+    #hint = "Press the highlighted keys to navigate."
 
   [[params.social]]
     name = "github"
@@ -46,12 +46,22 @@ theme = "hugo-theme-tokyo-terminal"
       shortcut = "a"
       icon = "☞"
   [[menu.main]]
+    identifier = "experience"
+    name = "Experience"
+    url = "/experience"
+    [menu.main.params]
+      shortcut = "e"
+      icon = "☞"
+  [[menu.main]]
     identifier = "projects"
     name = "Projects"
     url = "/projects"
     [menu.main.params]
       shortcut = "p"
       icon = "☞"
+
+
+
 
 # OLD ASCII ART
 old = '''

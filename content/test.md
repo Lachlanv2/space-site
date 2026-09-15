@@ -2,8 +2,9 @@
 title = "Testing MD"
 +++
 
-Projects created by me
+Heres all the markdown tricks IK of so I can keep track
 
-Currently i have not put any on here but that's a you problem
 
-get better
+A very <span style='color: red;'>long</span> sentence. = Coloring
+
+![alt-text](Imagelink)
