@@ -2,8 +2,8 @@
 title = "Projects"
 +++
 
-Projects created by me
+My Projects
 
-Currently i have not put any on here but that's a you problem
-
-get better
+---
+![Homelab](https://lochy.space/posts/mine)
+---
