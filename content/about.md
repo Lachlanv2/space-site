@@ -10,13 +10,13 @@ Currently, I’m getting more into web design including learning raw HTML, CSS a
 # What I am working towards:
 
 ## Certs
-- [ ] Comptia Network+
-- [ ] CCNA
 - [x] Palo Alto Network Security
+- [ ] CompTIA Network+
+- [ ] CCNA
 
 ## Projects TODO
 - [ ] Personal Website (This one)
-- [ ] Computing and Security Students Association Website
-- [ ] Potential Freelance web design work
+- [ ] Computing and Security Students Association Website (Three.js overhaul)
+- [ ] N2GFW (Next Next Generation Firewall)
 
 
